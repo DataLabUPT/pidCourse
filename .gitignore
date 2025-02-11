@@ -1,0 +1,11 @@
+# Ignore IDE specific files (for example, Visual Studio Code)
+.vscode/
+.idea/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment (just in case it's named differently)
+env/
+venv/
+.venv/
